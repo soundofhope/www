@@ -7,8 +7,7 @@
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
 <a name="9" id="9" target="_blank"></a> <span id="9"></span>
-<img src="https://raw.githubusercontent.com/szzd3/1/master/t/fq1.jpg"><br>
-本平台简易网址:{{dwz}}    用海外浏览器打开更顺利,推荐Google Chrome
+<img src="https://raw.githubusercontent.com/Synchunk/1/master/t/fq1.jpg"><br>
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
 <p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/extras/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <img src="https://raw.githubusercontent.com/Synchunk/1/master/t/sz.jpg"><br>

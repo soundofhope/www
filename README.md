@@ -8,7 +8,7 @@
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
 <a name="9" id="9" target="_blank"></a> <span id="9"></span>
 <img src="https://raw.githubusercontent.com/dvvwv/fq/master/t/fq1.jpg"><br>
-<a href="https://github.com/cbzs/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台安全投稿</a>  <a href="https://github.com/szzd2/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>  本平台用海外浏览器打开更顺利,推荐Chrome</p>
+<a href="https://github.com/dvvwv/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台安全投稿</a>  <a href="https://github.com/dvvwv/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a>  本平台用海外浏览器打开更顺利,推荐Chrome</p>
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
 <p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/entdtvas/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <img src="https://raw.githubusercontent.com/dvvwv/fq/master/t/sz.jpg"><br>
@@ -16,8 +16,8 @@
 <p><a href="https://raw.githubusercontent.com/wujieliulan/download/master/um.apk?raw=true">无界浏览（手机版）</a></p>
 <p><a href="https://raw.githubusercontent.com/freegate-release/website/gh-pages/files/fgp.zip?fldfh2">自由门（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
 <p><a href="https://raw.githubusercontent.com/wujieliulan/download/master/u.zip?fldfh2">无界浏览（电脑版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>
-<p><a href="https://raw.githubusercontent.com/dvvwv/szzd1.github.io/master/szzd/iPPOTV.zip">爱博电视（电脑版）</a></p>
-<p><a href="https://raw.githubusercontent.com/dvvwv/szzd1.github.io/master/szzd/szzdogate.rar?fldfh2">神州正道（网页版）</a></p>
+<p><a href="https://raw.githubusercontent.com/dvvwv/fq/master/szzd/iPPOTV.zip">爱博电视（电脑版）</a></p>
+<p><a href="https://raw.githubusercontent.com/dvvwv/fq/master/szzd/szzdogate.rar?fldfh2">神州正道（网页版）</a></p>
 <p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/entdtvas/SzzdOgateTV.apk?fldfh2">神州正道安卓（电视机顶盒版）</a></p>
 <hr>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>

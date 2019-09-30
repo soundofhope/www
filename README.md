@@ -8,7 +8,7 @@
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
 <a name="9" id="9" target="_blank"></a> <span id="9"></span>
 <img src="https://raw.githubusercontent.com/asdfgt5/www/master/t/fq1.jpg"><br>
-<p><strong>本平台固定短网址 git.io/*8   <a href="https://github.com/asdfgt5/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台安全投稿</a>  <a href="https://github.com/asdfgt5/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a></strong></p>
+<h3>本平台固定短网址 git.io/*8   <a href="https://github.com/asdfgt5/ntdtv/blob/master/gb/contribute.md#1">新唐人电视台安全投稿</a>  <a href="https://github.com/asdfgt5/djy/blob/master/gb/about-djy.md#1">大纪元时报投稿</a></strong></h3>
 
 <h1><p><strong>下载一键翻墙软件</strong></p></h1>
 <p><a href="https://raw.githubusercontent.com/SzzdOgate/update/master/entdtvas/SzzdOgate.apk?fldfh2">神州正道（手机版）</a><img src="https://raw.githubusercontent.com/hao369/a/master/benzoutuijian.gif" alt=""></p>

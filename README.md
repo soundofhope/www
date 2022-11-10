@@ -19,15 +19,6 @@
 ```
 <br>
 
-
-<br><p><a target="_blank" href="https://github.com/tui590285/djy/blob/master/gb/nf1351518.md#1">大纪元动态首页</a></p>
-<p><a target="_blank" href="https://github.com/tui590285/ntdtv/blob/master/gb/prog204.md#1">新唐人动态首页</a></p>
-</details>
-</details>
-</details>
-</details>
-</details>
-
 <img src="https://raw.githubusercontent.com/tui590285/www/master/t/lh600.jpg"><br>
 <a name="8" id="8" target="_blank"></a> <span id="8"></span>
 <h1><p><strong>免费翻墙软件下载</strong></p></h1>
